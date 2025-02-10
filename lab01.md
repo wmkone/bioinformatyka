@@ -1,6 +1,6 @@
 # Linux - podstawowe polecenia
 
-> Zadania powinny zostać wykonane w terminalu przy pomocy poleceń powłoki. Do każdego z poniższych punktów należy podać polecenie Linuxa, które umożliwiło rozwiązania zadania.
+> Zadania powinny zostać wykonane w terminalu przy pomocy poleceń powłoki (cli). Do każdego z poniższych punktów należy podać polecenie Linuxa, które umożliwiło rozwiązania zadania.
 
 ## Zad. 1 - Poruszanie się w drzewie katalogów
 

@@ -23,7 +23,7 @@ Bioinformatyka, I rok
 
 #### Sprawozdania
 
-Sprawozdania należy przesyłać jako odpowiedzi na zadania w MsTeams.
+Sprawozdania (plik tekstowy .txt) należy przesyłać jako odpowiedzi na zadania w MsTeams.
 
 
 ### Materiały dodatkowe
@@ -36,7 +36,7 @@ Sprawozdania należy przesyłać jako odpowiedzi na zadania w MsTeams.
 
 ### Kontakt
 
-Zakład Biologii Obliczeniowej
+Pracownia Biologii Obliczeniowej
 
 Wydział Biologii UAM
 

@@ -5,7 +5,7 @@ Bioinformatyka, I rok
 #### Plan zajęć
 
 | Lab | Data | Opis | Zadania |
-| :---: | --- | --- | :---: |
+| :-: | :--|:-- | :-: |
 | **01** | 24/28.02.2025 | Linux - podstawowe polecenia  | [lab01](./labs/lab01.md) |
 | **02** | 03/07.03.2025 | Przeszukiwanie baz danych: NCBI i ENA  | |
 | **03** | 10/14.03.2025 | Przeszukiwanie baz danych: PubMed i E-utilities  | |
@@ -16,13 +16,13 @@ Bioinformatyka, I rok
 
 #### Sprawozdania
 
-Sprawozdania (plik tekstowy .txt) należy przesyłać jako odpowiedzi na zadania w MsTeams.
+Sprawozdania (plik tekstowy `.txt`) należy przesyłać jako odpowiedzi na zadania w MsTeams.
 
 
 ### Materiały dodatkowe
 
 
-#### :closed_book: Książki:
+#### :books: Książki:
 
 * T. Attword i P. Higgs. Bioinformatyka i ewolucja molekularna. Wydawnictwo PWN. 2012.
 
@@ -34,3 +34,4 @@ Pracownia Biologii Obliczeniowej
 Wydział Biologii UAM
 
 [www.combio.pl](http://combio.pl)
+

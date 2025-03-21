@@ -90,7 +90,7 @@ W bazie nukleotydowej NCBI wyszukaj rekord o numerze dostępu `U54469.1`. W nowe
 2. Czy oba rekordy różnią się pod względem informacji dotyczących:
 	- długości sekwencji
 	- listy publikacji
-	- pozycji na fragmencie DNA
+	- pozycji genu na fragmencie DNA
 	- daty ostatniej modyfikacji
 3. Ile wariantów transkrypcyjnych (mRNA) może powstać z tej sekwencji DNA?
 4. Z ilu egzonów złożone są te warianty mRNA?

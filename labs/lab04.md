@@ -66,10 +66,10 @@ W bazie Nucleotide NCBI wyszukaj rekord o numerze dostępu `NM_033295`.
 6. Podaj datę ostatniej modyfikacji rekordu.
 7. Podaj numer wersji rekordu.
 8. Wskaż gen, którego dotyczy rekord sekwencji:
-	   - kaspaza
-	   - kinaza
-	   - dehydrogenaza
-	   - transferaza
+	- kaspaza
+	- kinaza
+	- dehydrogenaza
+	- transferaza
 9. W ilu artykułach naukowych (*Reference*) została opisana ta cząsteczka?
 10. Na którym chromosomie znajduje się ten gen?
 11. Podaj trzy synonimy tego genu.
@@ -88,11 +88,10 @@ W bazie nukleotydowej NCBI wyszukaj rekord o numerze dostępu `U54469.1`. W nowe
 
 1. Czy rekordy dotyczą sekwencji genomowej (DNA) czy sekwencji transkryptu (mRNA)?
 2. Czy oba rekordy różnią się pod względem informacji dotyczących:
-	   - długości sekwencji
-	   - listy publikacji
-	   - pozycji na fragmencie DNA
-	   - daty ostatniej modyfikacji
-
+	- długości sekwencji
+	- listy publikacji
+	- pozycji na fragmencie DNA
+	- daty ostatniej modyfikacji
 3. Ile wariantów transkrypcyjnych (mRNA) może powstać z tej sekwencji DNA?
 4. Z ilu egzonów złożone są te warianty mRNA?
 5. Wyświetl oba rekordy (z bazy NCBI i ENA) w formacie FASTA. Czy liczba znaków w linii sekwencji jest taka sama?

@@ -1,5 +1,5 @@
 LOCUS       XP_009311342             279 aa            linear   INV 09-JUN-2015
-DEFINITION  /.
+DEFINITION  kinase [Trypanosoma grayi].
 ACCESSION   XP_009311342
 VERSION     XP_009311342.1
 DBLINK      BioProject: PRJNA258390

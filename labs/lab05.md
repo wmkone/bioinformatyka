@@ -17,14 +17,14 @@ Przejdź do rekordu sekwencji insuliny człowieka (numer dostępu: `P01308`).
 
 1. Jaka jest lokalizacja komórkowa insuliny (panel `Subcellular location`)?
 2. Wymień trzy przykładowe procesy biologiczne i funkcje molekularne, w których uczestniczy insulina (`Function`)
-2. Wymień trzy jednostki chorobowe związane z białkiem insuliny (`Disease & Variants`). Podaj jeden wariant/polimorfizm sekwencji związany z hiperproinsulinemią.
-3. Ile peptydów sygnałowych i propeptydów zawiera sekwencja insuliny? (`PTM / Processing`)
+3. Wymień trzy jednostki chorobowe związane z białkiem insuliny (`Disease & Variants`). Podaj jeden wariant/polimorfizm sekwencji związany z hiperproinsulinemią.
+4. Ile peptydów sygnałowych i propeptydów zawiera sekwencja insuliny? (`PTM / Processing`)
 
    > Ta część rekordu zawiera informacje na temat post-translacyjnych modyfikacji (PTM) białka. Peptydy sygnałowe i propeptydy zostają usunięte z białka insuliny zanim białko zostanie wydzielone poza komórkę. Sekwencja dojrzałego białka insuliny składa się z łańcuchów białkowych A i B.
 
-4. Wyświetl sekwencję białkową insuliny w formacie FASTA i umieść w sprawozdaniu (`Sequence & Isoform`).
-5. Jaki jest numer dostępu białka i odpowiadającego mu mRNA w bazie RefSeq (`Sequence databases`)?
-6. Wyświetl rekord insuliny w formacie tekstowym (`Download` > `Text`). Jak nazywa się ten format zapisu sekwencji?
+5. Wyświetl sekwencję białkową insuliny w formacie FASTA i umieść w sprawozdaniu (`Sequence & Isoform`).
+6. Jaki jest numer dostępu białka i odpowiadającego mu mRNA w bazie RefSeq (`Sequence databases`)?
+7. Wyświetl rekord insuliny w formacie tekstowym (`Download` > `Text`). Jak nazywa się ten format zapisu sekwencji?
 	- FASTA
 	- GenBank
 	- XML
@@ -83,9 +83,9 @@ W bazie `Gene` serwisu NCBI wyszukaj gen człowieka o nazwie *CASP6*.
 
 1. Podaj pełną nazwę tego genu.
 2. W oparciu o informacje zawarte w panelu `General gene information` wymień dwa przykładowe opisy dla każdego z trzech działów ontologicznych:
-   * funkcji molekularnej
-   * procesu biologicznego
-   * komponentu komórkowego
+	   - funkcji molekularnej
+	   - procesu biologicznego
+	   - komponentu komórkowego
 3. O czym informują trzyliterowe kody znajdujące się w kolumnie `Evidence Code`? Podaj i wyjaśnij trzy przykłady tych kodów.
 4. Na stronie rekordu odszukaj numer dostępu białka w bazie UniProt kodowanego przez ten gen i przejdź do rekordu UniProt. Czy w rekordzie UniProt również znajdują się informacje na temat ontologii tego genu?
 

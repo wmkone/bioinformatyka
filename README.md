@@ -10,7 +10,7 @@ Bioinformatyka, I rok
 | **02** | 07.03.2025 | Przeszukiwanie baz danych: NCBI i ENA  | [lab02](./labs/lab02.md) |
 | **03** | 14.03.2025 | Przeszukiwanie baz danych: PubMed i E-utilities  | [lab03](./labs/lab03.md)|
 | **04** | 21.03.2025 | Formaty rekordów sekwencji  |[lab04](./labs/lab04.md)|
-| **05** | 28.03.2025 | UniProt i ontologia genów  | [lab05] (./labs/lab05.md)|
+| **05** | 28.03.2025 | UniProt i ontologia genów  | [lab05](./labs/lab05.md)|
 | **06** | 04.04.2025 | Porównywanie dwóch sekwencji (DotPlot)  | |
 | **07** | 11.04.2025 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | |
 

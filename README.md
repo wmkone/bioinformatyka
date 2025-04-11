@@ -12,21 +12,9 @@ Bioinformatyka, I rok
 | **04** | 21.03.2025 | Formaty rekordów sekwencji  |[lab04](./labs/lab04.md)|
 | **05** | 28.03.2025 | UniProt i ontologia genów  | [lab05](./labs/lab05.md)|
 | **06** | 04.04.2025 | Porównywanie dwóch sekwencji (DotPlot)  |[lab06](./labs/lab06.md) |
-| **07** | 11.04.2025 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | |
+| **07** | 11.04.2025 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | [lab07](./labs/lab07.md)|
 
 #### Sprawozdania
-
-s1-s1.png
-
-s1-s7.png
-
-s2-s2.png
-
-s3-s3.png
-
-s3-s4.png
-
-s5-s6.png
 
 Sprawozdania (plik tekstowy `.txt`) należy przesyłać jako odpowiedzi na zadania w MsTeams.
 

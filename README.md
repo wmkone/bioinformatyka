@@ -6,7 +6,7 @@ Bioinformatyka, I rok
 
 | Lab | Data | Opis | Zadania |
 | :-: | :--|:-- | :-: |
-| **01** | 03.03.2026 | Linux - podstawowe polecenia  | [lab01](./labs/lab01)|
+| **01** | 03.03.2026 | Linux - podstawowe polecenia  | [lab01](./blob/main/labs/lab01.md)|
 | **02** | 10.03.2026 | Przeszukiwanie baz danych: NCBI i ENA  | |
 | **03** | 17.03.2026 | Przeszukiwanie baz danych: PubMed i E-utilities  | |
 | **04** | 24.03.2026 | Formaty rekordów sekwencji  | |

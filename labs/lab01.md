@@ -9,7 +9,7 @@
 3. Przejdź do korzenia systemu plików (ścieżka `/`).
 4. Wyświetl listę wszystkich plików i katalogów znajdujących się w tej ścieżce.
 5. Wpisz polecenia `ls -l`. Co określa opcja `-l`?
-6. W oparciu o dokumentację (`man ls`) wyjaśnij, co robi polecenie: `ls -alpth` (to samo co: `ls -a -l -p -t -h`)
+6. W oparciu o dokumentację (`man ls`) wyjaśnij, do czego służy polecenie: `ls -alpth` (to samo co: `ls -a -l -p -t -h`)
 7. Co otrzymasz w wyniku polecenia `ls /var/`?
 
 

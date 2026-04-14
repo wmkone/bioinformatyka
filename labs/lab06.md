@@ -63,7 +63,7 @@ W serwisie UniProt odszukaj białko kodowane przez gen *UBC* człowieka. Korzyst
 Zapoznaj się z parametrami zainstalowanego w systemie Linux programu `dotmatcher` (`dotmatcher -h`) i wykonaj analizę z poprzedniego zadania zapisując wykres w formacie `pdf`. Polecenie programu `dotmatcher` oraz uzyskany wykres dołącz do sprawozdania.
 
 ## Zad. 8
-'Spinka' ([stem-loop](https://en.wikipedia.org/wiki/Stem-loop)) to drugorzędowa struktura cząsteczki kwasu nukleinowego, która powstaje na skutek komplementarności sąsiadujących sekwencji . Korzystając z programu `dotter`  przeanalizuj poniższą sekwencję pod kątem możliwości tworzenia 'spinki'.
+'Spinka' ([stem-loop](https://en.wikipedia.org/wiki/Stem-loop)) to drugorzędowa struktura cząsteczki kwasu nukleinowego, która powstaje na skutek komplementarności sąsiadujących sekwencji . Korzystając z programu `dotmatcher`  przeanalizuj poniższą sekwencję pod kątem możliwości tworzenia 'spinki'.
 
 `ACGTGCCACGATTCAACGTGGCACAG`
 

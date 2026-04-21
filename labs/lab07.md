@@ -57,7 +57,7 @@ Odpowiedz na pytania:
    * `E:Q`
    * `S.K`
    * `A.I`?
-3. W oparciu o wartości zawarte w macierzy BLOSUM62 wyjaśnij używane symbole (`-`, `:` oraz `.`).
+3. W oparciu o wartości zawarte w macierzy BLOSUM62 wyjaśnij znaczenie symboli: `|`, `:` oraz `.`.
 4. Ile wynosi procent *podobieństwa* przyrównania sekwencji?
 5. Podaj wartość *score* całego przyrównania przy zastosowaniu macierzy BLOSUM62 i kary za przerwę: `-10`.
 

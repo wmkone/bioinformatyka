@@ -12,7 +12,7 @@ Bioinformatyka, I rok
 | **04** | 24.03.2026 | Formaty rekordów sekwencji  | [lab04](./labs/lab04.md) |
 | **05** | 31.03.2026 | UniProt i ontologia genów  | [lab05](./labs/lab05.md) |
 | **06** | 14.04.2026 | Przyrównanie dwóch sekwencji (DotPlot)  | [lab06](./labs/lab06.md) |
-| **07** | 21.04.2026 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | |
+| **07** | 21.04.2026 | Przyrównanie dwóch sekwencji (programowanie dynamiczne) | [lab07](./labs/lab07.md) |
 
 #### Sprawozdania
 
